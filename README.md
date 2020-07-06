@@ -40,4 +40,4 @@ pip install scipy
 - You can install YOLOv3 weights on Google colab from the link below https://pjreddie.com/media/files/yolov3.weights
 
 ## Entire Flow
-![alt text](https://github.com/MohammedaijazS-Hexaware/corona-social-distancing/blob/master/?raw=true)
+![alt text](https://github.com/MohammedaijazS-Hexaware/corona-social-distancing/blob/master/Screenshot%20(158).png)
