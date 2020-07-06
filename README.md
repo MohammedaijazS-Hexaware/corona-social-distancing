@@ -39,4 +39,5 @@ pip install scipy
 - Google colab provides 1 GB free GPU (So, we can use YOLOv3 in Google colab for best results)
 - You can install YOLOv3 weights on Google colab from the link below https://pjreddie.com/media/files/yolov3.weights
 
-
+## Entire Flow
+![alt text](https://github.com/MohammedaijazS-Hexaware/corona-social-distancing/blob/master/?raw=true)
